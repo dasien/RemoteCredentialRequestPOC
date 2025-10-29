@@ -1,0 +1,266 @@
+{
+  "queue_metadata": {
+    "created": "2025-10-21T00:00:00Z",
+    "version": "2.0.0",
+    "description": "Task queue for multi-agent development system with contract-based validation"
+  },
+  "active_workflows": [],
+  "pending_tasks": [],
+  "completed_tasks": [
+    {
+      "id": "task_1761662103_22288",
+      "title": "Credential Integration POC",
+      "assigned_agent": "requirements-analyst",
+      "priority": "high",
+      "task_type": "analysis",
+      "description": "Analyze requirements for the credential use enhancement",
+      "source_file": "enhancements/credential-request/credential-request.md",
+      "created": "2025-10-28T14:35:03Z",
+      "status": "completed",
+      "started": "2025-10-28T14:35:27Z",
+      "completed": "2025-10-28T14:49:00Z",
+      "result": "READY_FOR_DEVELOPMENT",
+      "auto_complete": true,
+      "auto_chain": false,
+      "metadata": {
+        "github_issue": null,
+        "jira_ticket": null,
+        "github_pr": null,
+        "confluence_page": null,
+        "parent_task_id": null,
+        "workflow_status": null
+      }
+    },
+    {
+      "id": "task_1761664245_23534",
+      "title": "Credential Integration POC",
+      "assigned_agent": "architect",
+      "priority": "high",
+      "task_type": "technical_analysis",
+      "description": "Perform technical analysis for the credential use enhancement",
+      "source_file": "enhancements/credential-request/requirements-analyst/analysis_summary.md",
+      "created": "2025-10-28T15:10:45Z",
+      "status": "completed",
+      "started": "2025-10-28T15:10:56Z",
+      "completed": "2025-10-28T15:27:56Z",
+      "result": "READY_FOR_IMPLEMENTATION",
+      "auto_complete": true,
+      "auto_chain": false,
+      "metadata": {
+        "github_issue": null,
+        "jira_ticket": null,
+        "github_pr": null,
+        "confluence_page": null,
+        "parent_task_id": null,
+        "workflow_status": null
+      }
+    },
+    {
+      "id": "task_1761670242_25133",
+      "title": "Credential Integration POC",
+      "assigned_agent": "implementer",
+      "priority": "high",
+      "task_type": "implementation",
+      "description": "Implement code changes for the credential use enhancement",
+      "source_file": "enhancements/credential-request/architect/implementation_plan.md",
+      "created": "2025-10-28T16:50:42Z",
+      "status": "completed",
+      "started": "2025-10-28T16:50:55Z",
+      "completed": "2025-10-28T16:58:56Z",
+      "result": "READY_FOR_TESTING",
+      "auto_complete": true,
+      "auto_chain": false,
+      "metadata": {
+        "github_issue": null,
+        "jira_ticket": null,
+        "github_pr": null,
+        "confluence_page": null,
+        "parent_task_id": null,
+        "workflow_status": null
+      }
+    },
+    {
+      "id": "task_1761699619_30497",
+      "title": "Remote Credential Integration",
+      "assigned_agent": "requirements-analyst",
+      "priority": "high",
+      "task_type": "analysis",
+      "description": "Analyze requirements for the remote credential use enhancement",
+      "source_file": "enhancements/remote-credential-request/remote-credential-request.md",
+      "created": "2025-10-29T01:00:19Z",
+      "status": "completed",
+      "started": "2025-10-29T01:00:32Z",
+      "completed": "2025-10-29T01:13:14Z",
+      "result": "READY_FOR_DEVELOPMENT",
+      "auto_complete": true,
+      "auto_chain": false,
+      "metadata": {
+        "github_issue": null,
+        "jira_ticket": null,
+        "github_pr": null,
+        "confluence_page": null,
+        "parent_task_id": null,
+        "workflow_status": null
+      }
+    },
+    {
+      "id": "task_1761743272_45196",
+      "title": "Remote Credential Integration",
+      "assigned_agent": "requirements-analyst",
+      "priority": "high",
+      "task_type": "analysis",
+      "description": "Analyze requirements for the remote credential use enhancement",
+      "source_file": "enhancements/remote-credential-request/remote-credential-request.md",
+      "created": "2025-10-29T13:07:52Z",
+      "status": "completed",
+      "started": "2025-10-29T13:08:17Z",
+      "completed": "2025-10-29T13:17:55Z",
+      "result": "READY_FOR_DEVELOPMENT",
+      "auto_complete": true,
+      "auto_chain": false,
+      "metadata": {
+        "github_issue": null,
+        "jira_ticket": null,
+        "github_pr": null,
+        "confluence_page": null,
+        "parent_task_id": null,
+        "workflow_status": null
+      }
+    },
+    {
+      "id": "task_1761746010_46076",
+      "title": "Remote Credential Integration",
+      "assigned_agent": "requirements-analyst",
+      "priority": "high",
+      "task_type": "analysis",
+      "description": "Analyze requirements for the remote credential use enhancement",
+      "source_file": "enhancements/remote-credential-request/remote-credential-request.md",
+      "created": "2025-10-29T13:53:30Z",
+      "status": "completed",
+      "started": "2025-10-29T13:55:12Z",
+      "completed": "2025-10-29T14:06:26Z",
+      "result": "READY_FOR_DEVELOPMENT",
+      "auto_complete": true,
+      "auto_chain": false,
+      "metadata": {
+        "github_issue": null,
+        "jira_ticket": null,
+        "github_pr": null,
+        "confluence_page": null,
+        "parent_task_id": null,
+        "workflow_status": null
+      }
+    },
+    {
+      "id": "task_1761747164_46752",
+      "title": "Credential Integration POC",
+      "assigned_agent": "architect",
+      "priority": "high",
+      "task_type": "technical_analysis",
+      "description": "Perform technical analysis for the remote credential use enhancement",
+      "source_file": "enhancements/remote-credential-request/requirements-analyst/analysis_summary.md",
+      "created": "2025-10-29T14:12:44Z",
+      "status": "completed",
+      "started": "2025-10-29T14:12:54Z",
+      "completed": "2025-10-29T14:19:42Z",
+      "result": "READY_FOR_IMPLEMENTATION",
+      "auto_complete": true,
+      "auto_chain": false,
+      "metadata": {
+        "github_issue": null,
+        "jira_ticket": null,
+        "github_pr": null,
+        "confluence_page": null,
+        "parent_task_id": null,
+        "workflow_status": null
+      }
+    }
+  ],
+  "failed_tasks": [],
+  "agent_status": {
+    "requirements-analyst": {
+      "status": "idle",
+      "last_activity": "2025-10-29T14:06:26Z",
+      "current_task": null
+    },
+    "architect": {
+      "status": "idle",
+      "last_activity": "2025-10-29T14:19:42Z",
+      "current_task": null
+    },
+    "implementer": {
+      "status": "idle",
+      "last_activity": "2025-10-28T16:58:56Z",
+      "current_task": null
+    },
+    "tester": {
+      "status": "idle",
+      "last_activity": null,
+      "current_task": null
+    },
+    "documenter": {
+      "status": "idle",
+      "last_activity": null,
+      "current_task": null
+    },
+    "github-integration-coordinator": {
+      "status": "idle",
+      "last_activity": null,
+      "current_task": null
+    },
+    "atlassian-integration-coordinator": {
+      "status": "idle",
+      "last_activity": null,
+      "current_task": null
+    }
+  },
+  "workflow_chains": {
+    "sequential_development": {
+      "name": "Sequential Development Flow",
+      "description": "Standard feature development workflow",
+      "steps": [
+        "requirements-analyst",
+        "architect",
+        "implementer",
+        "tester",
+        "documenter"
+      ],
+      "current_step": 0,
+      "status": "ready"
+    },
+    "bug_fix": {
+      "name": "Bug Fix Flow",
+      "description": "Workflow for fixing bugs",
+      "steps": [
+        "requirements-analyst",
+        "architect",
+        "implementer",
+        "tester"
+      ],
+      "current_step": 0,
+      "status": "ready"
+    },
+    "hotfix_flow": {
+      "name": "Hotfix Flow",
+      "description": "Emergency fix workflow (skip requirements and architecture)",
+      "steps": [
+        "implementer",
+        "tester"
+      ],
+      "current_step": 0,
+      "status": "ready"
+    },
+    "refactoring": {
+      "name": "Refactoring Flow",
+      "description": "Code refactoring workflow (skip requirements)",
+      "steps": [
+        "architect",
+        "implementer",
+        "tester",
+        "documenter"
+      ],
+      "current_step": 0,
+      "status": "ready"
+    }
+  }
+}
